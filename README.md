@@ -77,9 +77,9 @@ plt.show()
 ```
 
 ## OUTPUT:
-<img width="372" height="102" alt="Screenshot 2026-08-08 081751" src="https://github.com/user-attachments/assets/bb4492bc-835c-4657-a13c-79ac08f04d9b" />
-<img width="362" height="100" alt="Screenshot 2026-08-08 081758" src="https://github.com/user-attachments/assets/f424c9de-89ae-4bc6-8842-561a4cac9e6e" />
-<img width="587" height="430" alt="Screenshot 2026-08-08 081815" src="https://github.com/user-attachments/assets/20508788-a9bb-4e8e-953e-1b0b9946b716" />
+<img width="313" height="100" alt="Screenshot 2026-08-08 082905" src="https://github.com/user-attachments/assets/6894f450-288c-4bcc-9b9c-bef42c5b2649" />
+<img width="336" height="91" alt="image" src="https://github.com/user-attachments/assets/9f7ec9d7-1fe7-43f2-b0ee-4a86b5866116" />
+<img width="545" height="412" alt="image" src="https://github.com/user-attachments/assets/128e5691-a5c5-4510-8da9-826b47266220" />
 
 
 ## RESULT:
